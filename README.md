@@ -20,7 +20,7 @@ WHEN I click on a city in the search history THEN I am again presented with curr
 WHEN I open the weather dashboard THEN I am presented with the last searched city forecast
 
 ## Initial Launch Page Screenshot
-
+https://github.com/mpabst01/Weather_Dashboard/blob/master/Screen%20Shot%202020-09-23%20at%2012.45.56%20AM.png
 
 ## Live site demo
 The website is deployed at https://mpabst01.github.io/Weather_Dashboard/
