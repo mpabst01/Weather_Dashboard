@@ -1,9 +1,9 @@
 
-$(function () {
+/* $(function () {
 
     var apiKey = "17104c7c39ba9e47e7041e1135b64b45";
     
-    /* function fetchWeatherForCity(city) {
+    function fetchWeatherForCity(city) {
         var queryUrl =
         "https://api.openweathermap.org/data/2.5/weather?q=" +
         city +
@@ -40,7 +40,7 @@ $(function () {
   
         $(".weather-card").removeClass("card-loading");
       }); 
-    } */
+    } 
 
 
     function fiveDayForcast(city) {
@@ -92,7 +92,7 @@ $(function () {
       });
   
 });
-
+*/
 
 
 
